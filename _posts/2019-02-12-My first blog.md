@@ -1,2 +1,2 @@
 title: My first blog.
-date: 2019-02-12
+date: YYYY-MM-DD
