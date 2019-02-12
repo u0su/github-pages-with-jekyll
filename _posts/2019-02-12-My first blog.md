@@ -1,2 +1,2 @@
-title: "Your blog post tile"
-Date: YYYY-MM-DD
+title Your blog post tile
+date yyyy-mm-dd
