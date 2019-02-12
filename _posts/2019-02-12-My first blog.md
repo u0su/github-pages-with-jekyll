@@ -1,2 +1,2 @@
-title Your blog post tile
-date yyyy-mm-dd
+Your blog post tile
+yyyy-mm-dd
