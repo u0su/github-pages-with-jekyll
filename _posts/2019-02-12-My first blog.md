@@ -1,4 +1,4 @@
 ---
-title : My first blog.
+title: My first blog.
 date: 2019-02-12
 ---
