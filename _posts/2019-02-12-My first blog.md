@@ -1,2 +1,4 @@
-My first blog.
-I am not sure what can I do here.
+---
+title : My first blog.
+date: 2019-02-12
+---
